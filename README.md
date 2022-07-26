@@ -1,5 +1,5 @@
 Kampus Merdeka x BANGKIT 2022
-# 05-2. Google Skill Boost - Quest (Infrastructure-Modernization)
+# 05-2. Google Skill Boost - Quest (Infrastructure Modernization)
 Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Kedelapan  
 
 **4-8 April 2022**  
