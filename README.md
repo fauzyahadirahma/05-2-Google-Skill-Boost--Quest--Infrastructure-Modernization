@@ -31,8 +31,19 @@ Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Kedela
   * Lab. Perform Foundational Data, ML, and AI Tasks in Google Cloud: Challenge Lab
 
 **4. Set Up and Configure a Cloud Environment in Google Cloud**  
-  * 
+  * Lab. Cloud IAM: Qwik Start
+  * Lab. Introduction to SQL for BigQuery and Cloud SQL
+  * Lab. Multiple VPC Networks
+  * Lab. Cloud Monitoring: Qwik Start
+  * Lab. Managing Deployments Using Kubernetes Engine
+  * Lab. Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab
 
 **5. Deploy and Manage Cloud Environments with Google Cloud**  
-  *
+  * Lab. Configuring IAM Permissions with gcloud
+  * Lab. Hosting a Web App on Google Cloud Using Compute Engine
+  * Lab. Orchestrating the Cloud with Kubernetes
+  * Lab. Networking 101
+  * Lab. Using BigQuery and Cloud Logging to Analyze BigQuery Usage
+  * Lab. Migrate to Cloud SQL for PostgreSQL using Database Migration Service
+  * Lab. Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
 
